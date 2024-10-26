@@ -12,6 +12,6 @@
 - Layout for desktop and tablet
 
 ## Demo
-Check out the live version of the project here[https://v-vytrykush.github.io/login-page/].
+Check out the live version of the project [here](https://v-vytrykush.github.io/login-page/).
 
 Feel free to explore, clone, and modify the code as you like!
